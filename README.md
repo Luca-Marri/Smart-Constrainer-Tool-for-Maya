@@ -10,6 +10,10 @@
 - **Maya 2025 or later** (PySide6 is already included)
 - If using **Maya 2024 or earlier**, you need to install PySide6 manually.
 
+## **Important Notes:**
+- For the best user experience, it is recommended to use a screen resolution of **1920x1080**.
+- Using other screen resolutions may cause UI issues or layout problems with the tool.
+
 ## **How to Use:**
 1. Insert the `ConstrainTool_UI.py` and `ConstrainTool_Utility.py` files into:  
    `C:\Users\<YourUser>\Documents\maya\2025\scripts`  
